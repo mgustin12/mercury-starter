@@ -1,7 +1,7 @@
 {
   "name": "mercury-starter",
   "version": "0.0.1",
-  "private": true,
+  "private": false,
   "scripts": {
     "start": "node ./node_modules/http-server/bin/http-server -p 3000",
     "build": "node ./node_modules/gulp/bin/gulp.js build",
