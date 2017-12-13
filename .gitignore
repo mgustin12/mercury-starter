@@ -1,0 +1,12 @@
+node_modules/
+*.log
+*.idea
+**/.DS_Store
+.vscode/
+public/css/
+public/js/
+public/*.html
+.env
+bust-css.json
+bust-js.json
+storage/
